@@ -1,9 +1,9 @@
 A multi-tool for everyday uses including a todo list, calculator, and stop watch.
 
 ## Tools Used
-NextJs
-Firebase(for auth and data)
-Styled-Components
+-NextJs
+-Firebase(for auth and data)
+-Styled-Components
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
